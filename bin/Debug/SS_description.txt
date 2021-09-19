@@ -1,0 +1,6 @@
+43684
+43749
+44335
+Indique aqui a lista de funcionalidades que valorizam o vosso projeto:
+
+- Funciona para todas as imagens de teste de Nível 1 e 2.
